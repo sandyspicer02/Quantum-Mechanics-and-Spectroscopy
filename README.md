@@ -1,2 +1,2 @@
-# Quantum-Chemistry-and-Spectroscopy
+# Quantum-Mechanics-and-Spectroscopy
 Python problem sets
